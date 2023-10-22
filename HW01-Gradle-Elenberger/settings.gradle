@@ -1,0 +1,3 @@
+rootProject.name = 'HW01-Gradle-Elenberger'
+include 'hw01-gradle'
+
